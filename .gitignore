@@ -1,0 +1,11 @@
+*.mp3
+*.wav
+*.pkl
+*.txt
+
+venv/
+__pycache__/
+.vscode/
+
+settings.py
+temp.mp3
